@@ -8,4 +8,4 @@ Compile with
 
 dotnet publish /p:NativeLib=Shared /p:SelfContained=true -r win-x64 -c release
 
-to export dlls to bin/../....../native directory
+to export to the .dll file in bin/../....../native directory
